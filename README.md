@@ -1,6 +1,4 @@
-I think I'm trying to 
 
-[![DMOJ Badge](http://mosesxu.ca/judge-badge/dmoj/sawayamastan)](https://www.dmoj.ca/user/sawayamastan) <-- kind of embarrassing 
 
 
 <!--
