@@ -1,8 +1,7 @@
 
 # I'm Tyler!
 
-- I'm an aspiring developer based in Ontario
-- I'm in high school, and I'm independently studying philosophy
+- I'm an aspiring developer based in Ontario, currently in my senior year of high school
 - You can reach me on Discord by the username tyler_0313
 
 <!--
