@@ -1,5 +1,9 @@
 
+# I'm Tyler!
 
+- I'm an aspiring developer based in Ontario
+- I'm in high school, and I'm independently studying philosophy
+- You can reach me on Discord by the username tyler_0313
 
 <!--
 **cocacolachicken/cocacolachicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
